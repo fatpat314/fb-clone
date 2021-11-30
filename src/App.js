@@ -7,8 +7,7 @@ function App() {
     // BEM naming convention
     <div className="app">
       <Header />
-
-
+      
       {/* App body */}
         {/* Sidebar */}
         {/* Feed */}
